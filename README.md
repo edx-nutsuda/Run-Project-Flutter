@@ -9,11 +9,15 @@
 
 ### Open Project wih Visual Studio Code
 
-1. Choose Folder Project
+1. Install Dart and Flutter Extension
+
+ ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/0f3c40090c65f243db745e9ca6c67558.png)
+
+2. Choose Folder Project
  
  ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/c495e55c97d565c8fda16ba2d9cdf1b5.png)
  
-2. Open file pubspec.yaml
+3. Open file pubspec.yaml
  
  ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/910c65038744f9da4dee7262987d115b.png)
  
@@ -21,7 +25,7 @@
 
  ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/9ba3afad18f83427c4a461d53de5d022.png)
  
-3. Open file Main.dart
+4. Open file Main.dart
 
  ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/ad98b48c6bc6c6c948e78950af62e329.png)
 
