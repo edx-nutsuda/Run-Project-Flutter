@@ -17,9 +17,9 @@
  
  ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/910c65038744f9da4dee7262987d115b.png)
  
- And then Get Packages with (Ctrl + S) or Save File
- 
- ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/703a14b67d617f0e12226ef5d988ca73.png)
+ And then Get Packages in terminal by this command _flutter pub get_ .
+
+ ![](https://s3-ap-southeast-1.amazonaws.com/img-in-th/9ba3afad18f83427c4a461d53de5d022.png)
  
 3. Open file Main.dart
 
