@@ -7,7 +7,7 @@
  
 ## Run Project
 
-###Open Project wih Visual Studio Code
+### Open Project wih Visual Studio Code
 
 1. Choose Folder Project
  
